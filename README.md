@@ -7,3 +7,7 @@ the machine installation of python.
 
 I've used `conda` for python and all other package management. We can use the
 `environments.yml` with conda to init the project with all dependencies.
+
+## About PyTorch projects:
+This contains the pytorch workflow, Transfer Learning, and End-to-End ML model
+deployment code using HuggingFace's Gradio demo to host the app.
